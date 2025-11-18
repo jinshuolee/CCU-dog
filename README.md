@@ -12,7 +12,8 @@
 * (2) 5分鐘內完成功能二：蹲下高度變化>8cm
 * (3) 5分鐘內完成功能三：單腳抬高高度>8cm
 * (4) 5分鐘內完成功能四：利用影像辨識自動判讀數字(看板為抽籤顯示1~10)
-  
+
+# 競賽海報
 ![image alt](https://github.com/jinshuolee/CCU-dog/blob/main/%E7%AC%AC%E4%BA%94%E7%B5%84%E6%B5%B7%E5%A0%B1.png?raw=true)
 
 # 成果展示
